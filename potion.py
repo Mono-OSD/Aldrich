@@ -2,14 +2,17 @@ import random
 import laboratory
 from laboratory import sudo1
 
-print("🧪")
+print("\n🧪🧪🧪\n")
 print("Welcome to Aldrich's Potion Lab!")
-print("🧪")
+print("🧪🧪🧪\n")
 
 print("Today, we've got a special menu just for you!")
 
-print(sudo1.random_potion_final1)
+print("But wait!")
+print("\n")
 
-prompt_answer1 = input("Write your input here: ")
+name = input("Before we do that, let's get your name on the list! What's your name? ")
 
-print(prompt_answer1)
+print(f"Great to meet you, {name}!")
+
+print("DISCLAIMER: Most stuff are coming soon, so don't expect this to get finished.")
