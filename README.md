@@ -6,7 +6,7 @@ Dabido's inventions with Python :D
 2. Go to the "laboratory" branch and download as zip.
 > Next steps: Uncompress the file, get the folder ready for the next step.
 3. Choose an IDE or run it on your own computer.
-> Repl.it is sufficient for use.
+> Repl.it is a good place to start if you dont have a computer or dont want to go through a lot of setup.
 4. Copy the files and paste 'em on the IDE or run the files on your own computer.
 5. RUN ITTT!!
 
@@ -14,6 +14,8 @@ If you encounter any errors, contact the contributors for this github repo.
 
 # Notes
 * Each file has an ID, which is normally just a one-digit number
+* If dependencies are needed for laboratory, delete the files that need the dependencies (only use this if it shoots out errors)
+> For example, if sudo1 needs potion.py specifically, then delete sudo1. (only if it gives out errors)
 
 ## Laboratory Package (in-built, 0)
 * The laboratory package was handmade
