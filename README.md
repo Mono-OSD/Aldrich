@@ -16,6 +16,7 @@ If you encounter any errors, contact the contributors for this github repo.
 * Each file has an ID, which is normally just a one-digit number
 * If dependencies are needed for laboratory, delete the files that need the dependencies (only use this if it shoots out errors)
 > For example, if sudo1 needs potion.py specifically, then delete sudo1. (only if it gives out errors)
+* **For GitHub specifically:** Commits might not be renamed to certain version, so please check the commits tab on the code section.
 
 ## Laboratory Package (in-built, 0)
 * The laboratory package was handmade
