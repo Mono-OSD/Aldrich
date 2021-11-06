@@ -47,4 +47,8 @@ prompt_answer1 = input("Let's pick, what do you want to brew? (1, 2, 3)\n")
 
 def prompt_answer_func():
     if prompt_answer1 == "1" or 1:
-        print(f"Great, so you want to use {sudo1.random_potion_final1}")
+        print(f"Great, so you want to use {sudo1.random_potion1}?")
+    if prompt_answer1 == "2" or 2:
+        print(f"Great, so you want to use {sudo1.random_potion2}?")
+    if prompt_answer1 == "3" or 3:
+        print(f"Great, so you want to use {sudo1.random_potion3}?")
