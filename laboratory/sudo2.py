@@ -3,7 +3,6 @@ Sudo2 is for Loomgild.py
 """
 import time
 from time import sleep
-import loomgild
 
 # Command Functions
 
@@ -24,7 +23,6 @@ def output():
     print(prompt1)
 
 def output_h():
-    if loomgild.cmd == "output -h":
-        print("Description: A command that outputs the user's input.")
-        print("Usage: output")
-        print("Tags: input, interactive")
+    print("Description: A command that outputs the user's input.")
+    print("Usage: output")
+    print("Tags: input, interactive")
