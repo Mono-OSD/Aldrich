@@ -43,7 +43,7 @@ print("Type in the command line to get started!")
 
 cmd = input("> ")
 
-while cmd == len(cmd)==2 or 3:
+while cmd == len(cmd.strip()):
     cmd = input("> ")
 
     if cmd == "help":
