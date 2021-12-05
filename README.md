@@ -29,4 +29,9 @@ If you encounter any errors, contact the contributors for this github repo.
 * This is the main file/potion experiment
 * Might be the most used file
 
+## Loomgild.py (alt, 2)
+* Loomgild.py uses the in-built "laboratory" package
+* This is an alternate file and considered a side project
+* Might be the second-most used file
+
 More coming soon!
