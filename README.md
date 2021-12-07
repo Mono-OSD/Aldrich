@@ -1,4 +1,4 @@
-# Aldrich-Potions
+# Aldrich
 Dabido's inventions with Python :D
 
 # Set-up
@@ -7,6 +7,7 @@ Dabido's inventions with Python :D
 > Next steps: Uncompress the file, get the folder ready for the next step.
 3. Choose an IDE or run it on your own computer.
 > Repl.it is a good place to start if you dont have a computer or dont want to go through a lot of setup.
+> However, when using repl.it, you must go to the shell and type "python main.py"
 4. Copy the files and paste 'em on the IDE or run the files on your own computer.
 5. RUN ITTT!!
 
